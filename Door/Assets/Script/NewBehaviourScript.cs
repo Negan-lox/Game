@@ -5,9 +5,5 @@ using UnityEngine.SceneManagement;
 
 public class NewBehaviourScript : MonoBehaviour
 {
-    public int buildindex;
-    public void Restart()
-    {
-        SceneManager.LoadScene(buildindex);
-    }
+
 }
