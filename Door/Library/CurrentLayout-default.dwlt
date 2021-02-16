@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 60
+  controlID: 127
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -95,8 +95,8 @@ MonoBehaviour:
     y: 0
     width: 375
     height: 466
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -491,8 +491,8 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 64390000
-    m_LastClickedID: 14692
+    m_SelectedIDs: 60390000
+    m_LastClickedID: 14688
     m_ExpandedIDs: 000000005e390000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -646,7 +646,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 6ae0fffffcf8ffff64fbffff
+      m_ExpandedIDs: 64fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -706,9 +706,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.2051641, y: 0.56664896, z: -1.2890625}
+    m_Target: {x: 4.2168345, y: -0.42500293, z: -1.2890625}
     speed: 2
-    m_Value: {x: 0.2051641, y: 0.56664896, z: -1.2890625}
+    m_Value: {x: 4.2168345, y: -0.42500293, z: -1.2890625}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -760,7 +760,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 9.510823
     speed: 2
-    m_Value: 9.101266
+    m_Value: 9.510823
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -844,7 +844,7 @@ MonoBehaviour:
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
     m_HSlider: 0
-    m_VSlider: 0
+    m_VSlider: 1
     m_IgnoreScrollWheelUntilClicked: 0
     m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
@@ -857,20 +857,20 @@ MonoBehaviour:
       y: 21
       width: 1510
       height: 439
-    m_Scale: {x: 0.6097222, y: 0.6097222}
-    m_Translation: {x: 755, y: 219.49998}
+    m_Scale: {x: 0.6388889, y: 0.6388889}
+    m_Translation: {x: 755, y: 219.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -1238.2688
-      y: -360
-      width: 2476.5376
-      height: 720
+      x: -1181.7391
+      y: -343.56522
+      width: 2363.4783
+      height: 687.13043
     m_MinimalGUI: 1
-  m_defaultScale: 0.6097222
+  m_defaultScale: 0.6388889
   m_LastWindowPixelSize: {x: 1510, y: 460}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
